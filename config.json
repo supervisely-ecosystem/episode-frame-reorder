@@ -19,7 +19,7 @@
   "icon_background": "#FFFFFF",
   "context_menu": {
     "target": [
-      "pointcloud_episodes_dataset"
+      "point_cloud_episodes_dataset"
     ]
   },
   "poster": "https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v1.0.0/EFR.POSTER.png"
