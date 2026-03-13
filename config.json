@@ -13,7 +13,7 @@
   "entrypoint": "python -m uvicorn src.main:app --host 0.0.0.0 --port 8000",
   "port": 8000,
   "task_location": "workspace_tasks",
-  "icon": "https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v1.0.0/2026-03-11_15-54.png",
+  "icon": "https://github.com/supervisely-ecosystem/point-cloud-episodes-frame-reorder/releases/download/v1.0.0/2026-03-11_15-54.png",
   "icon_cover": true,
   "headless": false,
   "icon_background": "#FFFFFF",
