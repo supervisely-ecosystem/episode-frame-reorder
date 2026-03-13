@@ -8,7 +8,7 @@
     "data management"
   ],
   "description": "Replace and reorder frames in Point Cloud Episodes to correct frame order.",
-  "docker_image": "supervisely/import-export:6.73.547",
+  "docker_image": "supervisely/data-operations:fix-urllib",
   "instance_version": "6.15.40",
   "entrypoint": "python -m uvicorn src.main:app --host 0.0.0.0 --port 8000",
   "port": 8000,
